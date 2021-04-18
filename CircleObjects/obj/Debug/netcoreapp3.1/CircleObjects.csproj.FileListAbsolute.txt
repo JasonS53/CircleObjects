@@ -1,0 +1,13 @@
+C:\Users\jms_s\source\repos\CircleObjects\CircleObjects\obj\Debug\netcoreapp3.1\CircleObjects.csprojAssemblyReference.cache
+C:\Users\jms_s\source\repos\CircleObjects\CircleObjects\obj\Debug\netcoreapp3.1\CircleObjects.AssemblyInfoInputs.cache
+C:\Users\jms_s\source\repos\CircleObjects\CircleObjects\obj\Debug\netcoreapp3.1\CircleObjects.AssemblyInfo.cs
+C:\Users\jms_s\source\repos\CircleObjects\CircleObjects\obj\Debug\netcoreapp3.1\CircleObjects.csproj.CoreCompileInputs.cache
+C:\Users\jms_s\source\repos\CircleObjects\CircleObjects\bin\Debug\netcoreapp3.1\CircleObjects.exe
+C:\Users\jms_s\source\repos\CircleObjects\CircleObjects\bin\Debug\netcoreapp3.1\CircleObjects.deps.json
+C:\Users\jms_s\source\repos\CircleObjects\CircleObjects\bin\Debug\netcoreapp3.1\CircleObjects.runtimeconfig.json
+C:\Users\jms_s\source\repos\CircleObjects\CircleObjects\bin\Debug\netcoreapp3.1\CircleObjects.runtimeconfig.dev.json
+C:\Users\jms_s\source\repos\CircleObjects\CircleObjects\bin\Debug\netcoreapp3.1\CircleObjects.dll
+C:\Users\jms_s\source\repos\CircleObjects\CircleObjects\bin\Debug\netcoreapp3.1\CircleObjects.pdb
+C:\Users\jms_s\source\repos\CircleObjects\CircleObjects\obj\Debug\netcoreapp3.1\CircleObjects.dll
+C:\Users\jms_s\source\repos\CircleObjects\CircleObjects\obj\Debug\netcoreapp3.1\CircleObjects.pdb
+C:\Users\jms_s\source\repos\CircleObjects\CircleObjects\obj\Debug\netcoreapp3.1\CircleObjects.genruntimeconfig.cache
